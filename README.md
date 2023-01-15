@@ -10,7 +10,7 @@
 </br>
 
 <h3 align="left">About Me:</h3>
--Graduado de <b>Frontend Angular Bootcamp</b> en It Academy de Barcelona Activa. Mira [Final Project Here](https://github.com/cplan85/Sprint9-Events-App)!
+-Graduado de <b>Frontend Angular Bootcamp</b> en It Academy de Barcelona Activa. Mira [Mi Proyecto Final](https://github.com/XFabio22/Sprint-9-Ecommerce/tree/main/LorenaEcommerce)!
 <!-- <a>
   <img src="https://camo.githubusercontent.com/ff2baf6c78c6a722f95c6b0ef52f409d7f50ffaccb826483b3a669b967ddbc67/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d416e67756c61722d4444303033313f7374796c653d666c61742d737175617265266c6f676f3d616e67756c6172266c6f676f436f6c6f723d7768697465"></>
 </a> -->
