@@ -3,7 +3,7 @@
  <img src="https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif" width="200" />
     <h1 align="center"> Hola 👋,Soy Fabio</h1>
     <h3 align="center">
-     Soy un Junior Front End developer residente en España. Actualmente, me encuentro aprendiendo de manera autodidacta y espero pronto poder ser FullStack 😎
+     Soy un Junior Front End developer residente en España. Actualmente, me encuentro aprendiendo de manera autodidacta  😎
     </h3>
 </div>
 
