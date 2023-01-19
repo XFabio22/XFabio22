@@ -16,7 +16,7 @@
 
 
 
--🔨Actualmente en cola para ser parte del equipo de Frontend Angular trabajando en el Proyecto [IT Academy Business Assistant](https://github.com/IT-Academy-BCN/BusinessAssistantBCN-frontend2) - Barcelona Activa
+-🔨Actualmente parte del equipo de Frontend Angular trabajando en el Proyecto [IT Academy Business Assistant](https://github.com/IT-Academy-BCN/BusinessAssistantBCN-frontend2) - Barcelona Activa
 
 -💬Contactame por correo: fabioaguilar222@gmail.com 
 
