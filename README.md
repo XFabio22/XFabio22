@@ -14,7 +14,7 @@
 
 ## 👨‍💻 Sobre mí
 
-¡Bienvenido a mi perfil! Soy un apasionado de la tecnología en constante evolución. Comencé mi camino en el mundo del **Frontend (Angular)** en la IT Academy y actualmente estoy expandiendo mis horizontes hacia el **Backend y la administración de sistemas**.
+¡Bienvenido a mi perfil! Soy un apasionado de la tecnología en constante evolución. Comencé mi camino en el mundo del **Frontend (Angular)** en la IT Academy y actualmente estoy expandiendo mis horizontes hacia el **Programacion y la administración de sistemas**.
 
 
 - 🔭 **Actualmente:** Cursando **DAW** (Desarrollo de Aplicaciones Web) y profundizando en **Java y SQL**.
